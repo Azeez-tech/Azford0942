@@ -3,7 +3,7 @@
 A Frontend Engineer and a student at AltSchool Africa studying Backend Engineering and looking forward to becoming Expert in Python programming. my love and passion for software development and creativity lead me to becoming a Fullstack web developer. I love what I do and looking forward to meeting new people to gain more knowledge and experience from them.
 
 Here are quick summary about me:
-<h>- 😄 Pronouns: He/Him </h>
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am currently a student at AltSchool Africa
 - 🌱 I’m currently learning Backend Engineering at AltSchool Africa
 - 👯 I’m looking to collaborate on on HTML5 AND CSS
